@@ -1,0 +1,16 @@
+1.How does semantic HTML improve accessibility for Corah’s senior users?
+
+Semantic HTML improves accessibility for Chelsea Club fans, especially older users
+because it helps screen readers and browsers understand the structure of the page.
+This makes navigation and reading easier for everyone.
+
+2.Which semantic elements were easiest or hardest to implement? Why?
+
+The easiest elements to use were header and footer because they fit easily into the top and bottom of the page. 
+The hardest was section and article because I wasn’t sure which one to use, 
+but I learned that article is for single pieces like event posts.
+ 
+3.How does this structure support CSS styling in future weeks?
+
+This structure will make adding CSS easier later because everything already has a clear section.
+It will help me style each part of the website without confusion.

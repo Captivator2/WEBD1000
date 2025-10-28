@@ -1,0 +1,43 @@
+W0505186 - Corah / Seniors Community Centre Review
+
+Step 1
+reference website: Spencers house community centre
+https://www.spencerhouse.ca/
+
+This website helps seniors in Halifax find programs, activities, and social events. 
+It is meant for older adults and their families who want to join community activities. 
+The site has clear sections and simple text, but some images do not have alt text, 
+and the font could be a bit larger for easier reading.
+
+
+ Corah Case Study (Seniors Community Centres in Halifax)
+Target audience and Purpose: The website is made for seniors in Halifax and nearby areas. it helps them find local community programs, social activites and support services.
+What works well: The website has clear sections, easy navigation, and uses simple language that seniors can understand.
+The colors are soft and friendly, and the layout makes it easy to see upcoming programs.
+What needs improement: Some images don’t have alt text for accessibility, which can make it harder for screen readers to describe the content.
+The font size could be a little larger for better readability, and some links could have clearer labels.
+
+Step 2
+| Criteria                               | Findings / Examples                                                                                                  | Recommendations                                                               |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Navigation & Menu Structure            | The website has a simple top menu with links to programs, contact info, and events. It’s easy to find pages.         | Keep the menu layout, but make the text bigger for seniors.                   |
+| Text Readability (contrast, font size) | Font size is okay but could be a bit bigger for older users. The contrast between text and background is mostly good.| Increase font size slightly and use darker text for better readability.       |
+| Alt Text & Images                      | Some images don’t have alt text                                                                                      | Add descriptive alt text for every image so screen readers can describe them. |
+| Forms & Interactive Elements           | There aren’t many forms, but the contact section is simple and works.                                                | Make sure all form labels are clear and easy to tab through with a keyboard.  |
+| Mobile Responsiveness                  | The website adjusts to mobile screens but some images shrink too much.                                               | Test the mobile version and make buttons larger for easy tapping.             |
+
+Step 3
+Seniors will naviagte he site easily because it will have clear menus, large buttons and simple words.Each page will have the same layout so they always know where things are.
+The most important things for them are events, contact info and abput the community.
+The homepage should have a big welcome message and a picture that feels friendly. It should also show the next events right away.
+
+Step 4
+| Page / Section | Content Item         | Type (Text, Image, Form) | Source (Existing / New) | Priority | Notes                               |
+| -------------- | -------------------- | ------------------------ | ----------------------- | -------- | ----------------------------------- |
+| Homepage       | Welcome message      | Text                     | New                     | High     | A short, friendly intro for seniors |
+| Homepage       | Hero image           | Image                    | New                     | High     | Picture of a community event        |
+| Events         | Upcoming events list | Text                     | Existing                | High     | Include date and description        |
+| About          | Mission statement    | Text                     | New                     | Medium   | Explain Corah’s goals clearly       |
+| Contact        | Contact form         | Form                     | New                     | High     | Simple form with clear labels       |
+
+Step 5

@@ -1,0 +1,43 @@
+Reference Website: Spencer House Seniors Centre
+
+Good things:
+
+Clear mission and description right at top, so visitors know what the site is about immediately 
+
+They list services and events, for example: activities, hot meals and internet access
+
+Website mentions accessible building and accessible washroom which shows concern for users with mobility issues 
+
+Bad things:
+
+Some text is small and a bit hard to read for older users.
+
+There isn’t much color contrast, which can make reading harder.
+
+Not all images seem to have alt text for accessibility.
+
+
+i recommend:
+Use larger, bold fonts for the main content to ensure readability.
+
+Make sure every image has alt="…” descriptive text.
+
+
+Step 3:
+| Page / Section          | Strengths                                        | Weaknesses                                                                | Notes / Recommendations                                                     |
+| ----------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Home                    | Headings are clear and large enough to read      | Some images have empty `alt` attributes, which makes them less accessible | Add descriptive alt text for all images so screen readers can describe them |
+| Events                  | Information is well organized and easy to follow | Font color could use more contrast on light backgrounds                   | Increase text contrast and use darker colors for easier reading             |
+| Contact Page            | Easy to find contact info                        | No clear navigation back to the main menu                                 | Add a “Back to Home” link or consistent navigation bar                      |
+| Navigation Bar          | Simple and easy to use                           | Not visible on all pages                                                  | Keep the same navigation bar on every page for consistency                  |
+| Footer                  | Contains address and links                       | Small text size                                                           | Make the footer text slightly larger for senior readability                 |
+
+Step 4:
+| Content Type          | Example from Website                              | Useful for CORAH? | Notes                                                                         |
+| --------------------- | ------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------- |
+| About Section         | Info about the community centres and what they do |  Yes             | CORAH can include a short, friendly About section for seniors                 |
+| Events List           | Lists social activities and programs              |  Yes             | CORAH should have a clear event calendar with filters for dates and locations |
+| Contact Info          | Phone numbers, email, and address                 |  Yes             | CORAH can make contact info big and easy to find                              |
+| Images                | Photos of seniors and activities                  |  Somewhat       | Add captions and alt text so they’re accessible                               |
+| Location Info / Map   | Shows community centre locations                  |  Yes             | CORAH can include a simple map or directions to events                        |
+| News or Updates       | Some event news                                   |  Somewhat       | CORAH could use a “Latest Updates” section with clear dates                   |

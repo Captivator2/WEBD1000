@@ -1,0 +1,20 @@
+Step 1
+Goals:
+ Make an easy-to-use website for seniors to find and join events.
+ Help staff manage events and make flyers quickly.
+
+Users:
+ Seniors living in rural areas.
+ CORAH staff who organize and post events.
+
+Needs:
+ Large, clear text.
+ Simple layout and buttons.
+ Pages that show events, contact info, and about the group.
+
+Main Pages:
+ Home
+ Events
+ About
+ Contact
+
