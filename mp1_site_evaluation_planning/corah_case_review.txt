@@ -41,3 +41,22 @@ Step 4
 | Contact        | Contact form         | Form                     | New                     | High     | Simple form with clear labels       |
 
 Step 5
+Home
+ ├── Hero (welcome + next events)
+ ├── Featured Events
+ │     ├── Event 1 (details)
+ │     └── Event 2 (details)
+ ├── About
+ └── Contact
+       └── Newsletter signup / contact form
+
+step 6
+1. How did your content inventory help identify gaps or redundancies in the website?
+It helped me see which parts of the site were missing or repeated.
+
+2.Which usability or accessibilty issues in the reference website stood out?
+The main issue was that some images didn’t have alt text, and some text was small and hard to read.
+
+3. How will this planning step make HTML/CSS implementation easier in week4-5?
+Now that I have a clear plan, I know what content goes where and what to fix.
+It will be easier to build the pages in HTML and style them with CSS because everything is already organized.
