@@ -50,13 +50,13 @@ Home
  └── Contact
        └── Newsletter signup / contact form
 
-step 6
-1. How did your content inventory help identify gaps or redundancies in the website?
-It helped me see which parts of the site were missing or repeated.
+step 6 Reflections
+What did you learn from evaluating the reference website?
+Evaluating the Seniors Community Centres in Halifax website helped me understand what works well for seniors and what does not.
+I saw that the website had clear information, but some parts were harder to use, like images without alt text and a layout that wasn’t always simple.
 
-2.Which usability or accessibilty issues in the reference website stood out?
-The main issue was that some images didn’t have alt text, and some text was small and hard to read.
+How does your content inventory and sitemap support Corah’s key goals and audience?
+My content inventory helped me organize everything the Corah site will need, and it showed me which content is high priority for seniors, like events and contact information.
 
-3. How will this planning step make HTML/CSS implementation easier in week4-5?
-Now that I have a clear plan, I know what content goes where and what to fix.
-It will be easier to build the pages in HTML and style them with CSS because everything is already organized.
+What accessibility and usability decisions did you prioritize in your plan?
+When planning the design, I focused on accessibility and ease of use. I made sure to think about readable text, simple menus, clear headings, and images that include alt text.
