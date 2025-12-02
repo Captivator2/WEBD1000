@@ -60,3 +60,35 @@ My content inventory helped me organize everything the Corah site will need, and
 
 What accessibility and usability decisions did you prioritize in your plan?
 When planning the design, I focused on accessibility and ease of use. I made sure to think about readable text, simple menus, clear headings, and images that include alt text.
+
+
+
+
+
+ <a class="nav-link is-active" href="index.html" aria-current="page">home</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link" href="about.html">about</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link" href="events.html">events</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link" href="register.html">register</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link" href="profile.html">my profile</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link nav-link--secondary" href="login.html">login</a>
+</div>
+<div class="nav-button">
+  <a class="nav-link nav-link--secondary" href="logout.html">logout</a>
+</div>
+    </nav>
+
+  </div>
+
+  <div class="separator-container">
+    <div class="separator" role="presentation"></div>
+  </div>

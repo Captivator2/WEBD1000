@@ -1,53 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Corah Community</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <header class="header-section-container">
+
+<header class="header-section-container">
   <div class="header-container">
 
-    <div class="logo-container">
-      <a href="index.html" class="brand-link" aria-label="CORAH Home">
-        <img src="images/corah-brand-logo.svg" alt="corah-brand-logo">
-      </a>
-
-      <img src="images/corah-brand-wordmark-logo (1).svg"
-           alt="corah-brand-wordmark-logo"
-           class="corah-brand-wordmark-logo">
+    <!-- Logo & Wordmark -->
+    <div class="logo-area">
+      <img src="images/corah-brand-logo.svg" alt="Corah Logo" class="corah-logo">
+      <img src="images/corah-brand-wordmark-logo (1).svg" alt="Corah Wordmark" class="corah-wordmark">
     </div>
 
-    <nav class="nav-container" aria-label="Main navigation">
-      <div class="nav-button">
-  <a class="nav-link is-active" href="index.html" aria-current="page">home</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link" href="about.html">about</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link" href="events.html">events</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link" href="register.html">register</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link" href="profile.html">my profile</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link nav-link--secondary" href="login.html">login</a>
-</div>
-<div class="nav-button">
-  <a class="nav-link nav-link--secondary" href="logout.html">logout</a>
-</div>
+    <!-- Navigation -->
+    <nav aria-label="Main navigation" class="main-nav">
+      <a class="nav-link active" href="index.html" aria-current="page">Home</a>
+      <a class="nav-link" href="about.html">About</a>
+      <a class="nav-link" href="events.html">Events</a>
+      <a class="nav-link" href="register.html">Register</a>
+      <a class="nav-link" href="login.html">Login</a>
     </nav>
 
   </div>
-
-  <div class="separator-container">
-    <div class="separator" role="presentation"></div>
-  </div>
 </header>
+
+<main>
+  <section class="welcome">
+    <h2>Welcome to CORAH</h2>
+    <p>Your gateway to rural aging and health resources.</p>
+  </section>
+</main>
+
 </body>
 </html>

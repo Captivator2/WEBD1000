@@ -1,0 +1,73 @@
+/* Header Bar */
+.header-section-container {
+  background-color: white;
+  padding: 1rem 2rem;
+  border-bottom: 4px solid #a535e6; /* purple underline */
+}
+
+/* Align header left/right */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Logo + Wordmark */
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.corah-logo {
+  height: 70px; /* make logo LARGE */
+}
+
+.corah-wordmark {
+  height: 40px; /* match teacher's size */
+}
+
+/* Navigation */
+.main-nav {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.nav-link {
+  padding: 0.4rem 1rem;
+  border: 2px solid #ccc;
+  border-radius: 2rem;
+  background-color: #f8f8f8;
+  text-decoration: none;
+  color: #333;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* Hover */
+.nav-link:hover {
+  background-color: #eee;
+}
+
+/* Active purple pill */
+.nav-link.active {
+  background-color: #a535e6;
+  color: white !important;
+  border-color: #a535e6;
+}
+
+/* Welcome section */
+.welcome {
+  max-width: 900px;
+  margin: 3rem auto;
+}
+
+.welcome h2 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+.welcome p {
+  font-size: 1.2rem;
+  color: #555;
+}
