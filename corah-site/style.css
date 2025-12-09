@@ -20,11 +20,11 @@
 }
 
 .corah-logo {
-  height: 70px; /* make logo LARGE */
+  height: 70px;
 }
 
 .corah-wordmark {
-  height: 40px; /* match teacher's size */
+  height: 40px;
 }
 
 /* Navigation */
@@ -56,18 +56,14 @@
   border-color: #a535e6;
 }
 
-/* Welcome section */
-.welcome {
-  max-width: 900px;
-  margin: 3rem auto;
+/* Hero Section */
+.hero {
+  background-color: #faf5ff;
+  padding: 3rem 1rem;
+  text-align: left;
 }
 
-.welcome h2 {
-  font-size: 2rem;
-  margin-bottom: 0.3rem;
-}
-
-.welcome p {
-  font-size: 1.2rem;
-  color: #555;
+.hero h1 {
+  font-size: 2.5rem; /* simple version to avoid validation issues */
+  margin-bottom: 0.5rem;
 }
